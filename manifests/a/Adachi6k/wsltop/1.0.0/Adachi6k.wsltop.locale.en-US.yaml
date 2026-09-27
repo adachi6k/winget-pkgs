@@ -8,6 +8,7 @@ PublisherUrl: https://github.com/adachi6k
 PublisherSupportUrl: https://github.com/adachi6k/wsltop/issues
 PackageName: wsltop
 PackageUrl: https://github.com/adachi6k/wsltop
+PrivacyUrl: https://github.com/adachi6k/wsltop/blob/11f0d10273eb2ff2cd11576c20e8ac9d75244ab6/PRIVACY.md
 License: MIT
 LicenseUrl: https://github.com/adachi6k/wsltop/blob/v1.0.0/LICENSE
 ShortDescription: A unified top-like resource monitor for Windows, WSL2, Docker, and WSL Containers.
